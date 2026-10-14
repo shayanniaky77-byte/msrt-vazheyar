@@ -1,0 +1,31 @@
+{
+  "name": "واژه‌یار MSRT | فلش‌کارت آفلاین",
+  "short_name": "واژه‌یار MSRT",
+  "description": "۳۰۰ واژه در ۶ هفته، فلش‌کارت، آزمون و کارنامه؛ قابلیت مطالعه آفلاین",
+  "lang": "fa",
+  "dir": "rtl",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone"
+  ],
+  "background_color": "#f2f5f7",
+  "theme_color": "#12364b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
